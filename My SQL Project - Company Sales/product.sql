@@ -1,0 +1,21 @@
+
+insert into product (product_id, product_name, price) values (1, 'Midsummer Night', 13.28);
+insert into product (product_id, product_name, price) values (2, 'Lemon Twist', 12.23);
+insert into product (product_id, product_name, price) values (3, 'Ocean Breeze', 11.22);
+insert into product (product_id, product_name, price) values (4, 'Rose Gold', 13.62);
+insert into product (product_id, product_name, price) values (5, 'Mystic Moon', 10.15);
+insert into product (product_id, product_name, price) values (6, 'Ruby Red', 9.2);
+insert into product (product_id, product_name, price) values (7, 'Midnight Sky', 11.08);
+insert into product (product_id, product_name, price) values (8, 'Winter Frost', 12.97);
+insert into product (product_id, product_name, price) values (9, 'Sunset Glow', 11.2);
+insert into product (product_id, product_name, price) values (10, 'Mystic Moon', 18.77);
+insert into product (product_id, product_name, price) values (11, 'Forest Fern', 7.58);
+insert into product (product_id, product_name, price) values (12, 'Azure Sky', 13.31);
+insert into product (product_id, product_name, price) values (13, 'Lemon Twist', 14.72);
+insert into product (product_id, product_name, price) values (14, 'Sapphire Dream', 6.17);
+insert into product (product_id, product_name, price) values (15, 'Rose Gold', 11.95);
+insert into product (product_id, product_name, price) values (16, 'Autumn Blaze', 12.08);
+insert into product (product_id, product_name, price) values (17, 'Ivory Whisper', 18.89);
+insert into product (product_id, product_name, price) values (18, 'Lemon Twist', 18.43);
+insert into product (product_id, product_name, price) values (19, 'Ivory Whisper', 15.56);
+insert into product (product_id, product_name, price) values (20, 'Midnight Sky', 15.17);
